@@ -16,4 +16,4 @@ Computer Communications
 https://www.coursera.org/account/accomplishments/specialization/V7MX4GC9BX9B
 
 English certificate    
-https://fap.fpt.edu.vn/Report/Awa.aspx?id=cVdFKhywvEo%3d
+file:///C:/Users/Anh%20Thong/Desktop/SE171619_20112024160146.pdf
