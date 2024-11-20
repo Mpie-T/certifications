@@ -16,4 +16,5 @@ Computer Communications
 https://www.coursera.org/account/accomplishments/specialization/V7MX4GC9BX9B
 
 English certificate    
-file:///D:/New%20folder%20(2)/certifications/SE171619_20112024162129.pdf
+![Uploading image.png…]()
+
